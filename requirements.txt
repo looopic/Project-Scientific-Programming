@@ -59,6 +59,5 @@ wcwidth==0.2.5
 Werkzeug==2.1.2
 wikipedia==1.4.0
 wolframalpha==5.0.0
-wxPython==4.1.1
 xmltodict==0.12.0
 zipp==3.8.0
